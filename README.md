@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Han (Quoc Anh is my real name) and I'm a Software Engineer, from Vietnam.</p>
+<p align="left">My name is Han (Quoc Anh is my real name) and I'm a Backend Engineer, from Vietnam.</p>
 
 ###
 
@@ -10,7 +10,14 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">I’m a Backend Engineer with strong expertise in building scalable game servers and cloud-native platforms.
+Currently working at Sky Mavis, I’ve led the development and optimization of core features for Axie Infinity
+Origins and Atia’s Legacy MMO, handling systems that scale to 120,000+ daily battles.
+I bring hands-on experience with technologies like Golang, Kafka, Redis, Kubernetes, and more. Beyond
+gaming infrastructure, I’ve contributed to security, performance, and system observability in both
+freelance and academic projects. My passion lies in creating high-performance backend systems, from
+real-time gameplay to video processing pipelines, with a focus on clean architecture, observability, and
+real-time data processing.</p>
 
 ###
 
@@ -19,21 +26,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" height="40" alt="Golang logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
