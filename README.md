@@ -10,8 +10,8 @@
 
 ###
 
-<p align="left">I’m a Backend Engineer with strong expertise in building scalable game servers and cloud-native platforms.
-Currently working at Sky Mavis, I’ve led the development and optimization of core features for Axie Infinity
+<p align="left">I’m an Ex-Backend Engineer @ Sky Mavis with strong expertise in building scalable game servers and cloud-native platforms.
+I’ve led the development and optimization of core features for Axie Infinity
 Origins and Atia’s Legacy MMO, handling systems that scale to 120,000+ daily battles.
 I bring hands-on experience with technologies like Golang, Kafka, Redis, Kubernetes, and more. Beyond
 gaming infrastructure, I’ve contributed to security, performance, and system observability in both
